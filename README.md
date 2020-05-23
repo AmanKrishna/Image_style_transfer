@@ -18,3 +18,6 @@ Python 3.5
 
 Tensorflow
 
+## The following is the result after training the model for 9500 epochs
+![alt text](https://github.com/AmanKrishna/Image_style_transfer/blob/master/pix2pix/Output/iter_9500.jpg)
+
