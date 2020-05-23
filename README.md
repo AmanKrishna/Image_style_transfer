@@ -24,5 +24,7 @@ Input Images: Column 1,4,7 (hand drawn)
 Model Output: Column 2,5,8
 
 Actual Images: Column 3,6,9
+
+
 ![alt text](https://github.com/AmanKrishna/Image_style_transfer/blob/master/pix2pix/Output/iter_9500.jpg)
 
